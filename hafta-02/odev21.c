@@ -1,5 +1,4 @@
 //Bir Node yapısı oluşturun. Node içerisinde 10 değerini saklayın ve ekrana yazdırın.#include <stdio.h>
-// 1. Vagonun Taslağını Çiziyoruz (Struct)
 #include <stdio.h>
    struct Node{
     int data;
